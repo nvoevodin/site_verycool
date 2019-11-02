@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/site_verycool/precache-manifest.e934df2207f675f32d91c67bd9dc7e04.js"
+  "/site_verycool/precache-manifest.67099baee013facfd6a929417897f713.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/site_verycool/static/css/main.b236b407.chunk.css",
-    "main.js": "/site_verycool/static/js/main.8ea00776.chunk.js",
-    "main.js.map": "/site_verycool/static/js/main.8ea00776.chunk.js.map",
+    "main.js": "/site_verycool/static/js/main.fc8f2c7d.chunk.js",
+    "main.js.map": "/site_verycool/static/js/main.fc8f2c7d.chunk.js.map",
     "runtime-main.js": "/site_verycool/static/js/runtime-main.1dd9026c.js",
     "runtime-main.js.map": "/site_verycool/static/js/runtime-main.1dd9026c.js.map",
     "static/css/2.0624914a.chunk.css": "/site_verycool/static/css/2.0624914a.chunk.css",
-    "static/js/2.fc5dad7f.chunk.js": "/site_verycool/static/js/2.fc5dad7f.chunk.js",
-    "static/js/2.fc5dad7f.chunk.js.map": "/site_verycool/static/js/2.fc5dad7f.chunk.js.map",
+    "static/js/2.fccae57c.chunk.js": "/site_verycool/static/js/2.fccae57c.chunk.js",
+    "static/js/2.fccae57c.chunk.js.map": "/site_verycool/static/js/2.fccae57c.chunk.js.map",
     "index.html": "/site_verycool/index.html",
-    "precache-manifest.49120b49ddbbac25779245411f48f524.js": "/site_verycool/precache-manifest.49120b49ddbbac25779245411f48f524.js",
+    "precache-manifest.cd4579f2238be10ddf022dbc4d8c0b3d.js": "/site_verycool/precache-manifest.cd4579f2238be10ddf022dbc4d8c0b3d.js",
     "service-worker.js": "/site_verycool/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/site_verycool/static/css/2.0624914a.chunk.css.map",
     "static/css/main.b236b407.chunk.css.map": "/site_verycool/static/css/main.b236b407.chunk.css.map",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.1dd9026c.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.fc5dad7f.chunk.js",
+    "static/js/2.fccae57c.chunk.js",
     "static/css/main.b236b407.chunk.css",
-    "static/js/main.8ea00776.chunk.js"
+    "static/js/main.fc8f2c7d.chunk.js"
   ]
 }

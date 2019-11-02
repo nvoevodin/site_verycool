@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/site_verycool/static/css/main.b236b407.chunk.css",
+    "main.js": "/site_verycool/static/js/main.f71b210d.chunk.js",
+    "main.js.map": "/site_verycool/static/js/main.f71b210d.chunk.js.map",
+    "runtime-main.js": "/site_verycool/static/js/runtime-main.1dd9026c.js",
+    "runtime-main.js.map": "/site_verycool/static/js/runtime-main.1dd9026c.js.map",
+    "static/css/2.0624914a.chunk.css": "/site_verycool/static/css/2.0624914a.chunk.css",
+    "static/js/2.af1b175a.chunk.js": "/site_verycool/static/js/2.af1b175a.chunk.js",
+    "static/js/2.af1b175a.chunk.js.map": "/site_verycool/static/js/2.af1b175a.chunk.js.map",
+    "index.html": "/site_verycool/index.html",
+    "precache-manifest.13872eb044962e3dc2370a3c933b5078.js": "/site_verycool/precache-manifest.13872eb044962e3dc2370a3c933b5078.js",
+    "service-worker.js": "/site_verycool/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/site_verycool/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.b236b407.chunk.css.map": "/site_verycool/static/css/main.b236b407.chunk.css.map",
+    "static/media/arrow.png": "/site_verycool/static/media/arrow.b89d8ecd.png",
+    "static/media/bulb.png": "/site_verycool/static/media/bulb.eb0f3aa3.png",
+    "static/media/ipad.png": "/site_verycool/static/media/ipad.203f4847.png",
+    "static/media/iphone.png": "/site_verycool/static/media/iphone.c0b11228.png",
+    "static/media/js.png": "/site_verycool/static/media/js.cddfdafd.png",
+    "static/media/rpic.png": "/site_verycool/static/media/rpic.c839dc03.png",
+    "static/media/shiny.png": "/site_verycool/static/media/shiny.cddc513b.png",
+    "static/media/sql.png": "/site_verycool/static/media/sql.c7ff2912.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd9026c.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.af1b175a.chunk.js",
+    "static/css/main.b236b407.chunk.css",
+    "static/js/main.f71b210d.chunk.js"
+  ]
+}
